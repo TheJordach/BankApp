@@ -1,5 +1,5 @@
 # BankApp
-## Experiments
+Experiments
 ------------------------
 Functionality. 
 1- We want to represent a bank where people have two different types of accounts: checking and savings. 
